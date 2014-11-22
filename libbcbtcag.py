@@ -1,4 +1,4 @@
-'libbcbtcag - A library for generating Bitcoin Public and Private keys in unison using Blockchain.info 's wallet generator.'
+'libbcbtcag - A library for generating Bitcoin Public and Private keys in unison using Blockchain.info"s wallet generator.'
 'GNU GPL v3.0 or above - <http://gnu.org/licenses/gpl.txt>'
 
 import urllib
