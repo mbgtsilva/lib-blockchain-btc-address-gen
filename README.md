@@ -1,6 +1,8 @@
 lib-blockchain-btc-address-gen
 ==============================
 
+[![Build Status](https://travis-ci.org/deavmi/lib-blockchain-btc-address-gen.svg?branch=master)](https://travis-ci.org/deavmi/lib-blockchain-btc-address-gen)
+
 A library for generating Bitcoin Public and Private keys in unison using Blockchain.info 's wallet generator.
 
 ##Usage
