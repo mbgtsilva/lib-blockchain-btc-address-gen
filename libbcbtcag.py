@@ -6,7 +6,7 @@ import urllib
 def generate(use_https):
     if use_https == True:
         protocol = "https://"
-    else protocol = "http://"
+    else: protocol = "http://"
     return urllib.request.urlopen(protocol + "blockchain.info/q/newkey")
 
 def get_version():
