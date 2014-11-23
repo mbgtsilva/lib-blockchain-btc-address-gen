@@ -10,3 +10,7 @@ A library for generating Bitcoin Public and Private keys in unison using Blockch
 * Import the library with `import libbcbtcag`.
 * Return the new public key and private key ij one string seperated by a space with `generate(True)`.
 * Use `generate(False)` for `http` (**unsecure**) and use `generate(True)` for `https` (**secure**).
+
+##Helpful links
+
+* [BitcoinTalk Release](https://bitcointalk.org/index.php?topic=869172.0)
