@@ -21,4 +21,5 @@ A library for generating Bitcoin Public and Private keys in unison using Blockch
 
 This software is licensed under the GNU General Public License version three or above.
 
-**Crowbar 2015.**
+**The Crowbar Development Team.**
+
